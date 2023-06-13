@@ -4,7 +4,7 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
    Unauthorized:
-      "关注微信公众号[橘座AI](https://mp.weixin.qq.com/s/eU-2wgq4dokK_ezp7gJPlA)* ，点击左下角[设置](/#/settings)按钮输入API Key后解锁**免费使用**。\n\n **提问:** GPT3.5和4.0都可以使用吗?\n\n **回答:** 可以 在下方输入购买的Key即可使用!\n\n **需要定制相同网站可关注微信公众号或是加微信群联系。\n\n可对接GPT4.0，Mid journey绘图网站。\n\n 点这里获得独立账号 KEY 使用](http://juzuoai.kaynai.asia/)\n \n欢迎来聊聊[知识星球](https://t.zsxq.com/0eRKoeoFI)或VX公众号 [橘座AI](https://mp.weixin.qq.com/s/eU-2wgq4dokK_ezp7gJPlA)，\n ",
+      "关注微信公众号[橘座AI](https://mp.weixin.qq.com/s/eU-2wgq4dokK_ezp7gJPlA)* ，点击左下角[设置](/#/settings)按钮输入API Key后解锁**使用**。\n\n **提问:** GPT3.5和4.0都可以使用吗?\n\n **回答:** 可以 在下方输入购买的Key即可使用!\n\n **需要定制相同网站可关注微信公众号或是加微信群联系。\n\n可对接GPT4.0，Mid journey绘图网站。\n\n 点这里获得独立账号 KEY 使用](http://juzuoai.kaynai.asia/)\n \n欢迎来聊聊[知识星球](https://t.zsxq.com/0eRKoeoFI)或VX公众号 [橘座AI](https://mp.weixin.qq.com/s/eU-2wgq4dokK_ezp7gJPlA)，\n ",
   },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} 条对话`,
