@@ -4,7 +4,7 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
     Unauthorized:
-      "关注微信公众号[橘座AI](https://mp.weixin.qq.com/s/eU-2wgq4dokK_ezp7gJPlA)*\n\n**API-key**使用说明，\n\n点击左下角设置输入**API Key**使用，\n\n**或者填入你自己的 OpenAI API Key就可以使用**。\n\n没有**KEY**联系客服QQ2468033615.\n\n点这里获得独立账号 KEY 使用]**(http://juzuoai.kaynai.asia )**.
+      "关注微信公众号[橘座AI](https://mp.weixin.qq.com/s/eU-2wgq4dokK_ezp7gJPlA)*\n\n**API Key**使用说明，\n\n点击左下角设置输入**API Key**使用，\n\n**或者填入你自己的 OpenAI API Key就可以使用**。\n\n没有**KEY**联系客服QQ2468033615.\n\n点这里获得独立账号 KEY 使用]**(http://juzuoai.kaynai.asia )**.
   },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} 条对话`,
